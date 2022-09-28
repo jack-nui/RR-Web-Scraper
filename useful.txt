@@ -1,0 +1,14 @@
+https://www.zenrows.com/blog/axios-web-scraping#using-cheerio-with-axios
+https://cheerio.js.org/
+https://axios-http.com/docs/example
+https://github.com/axios/axios
+https://stackoverflow.com/questions/10216395/error-failed-to-lookup-view-in-express
+https://dev.to/drsimplegraffiti/i-scraped-dev-to-using-axios-and-cheerio-26ko
+
+
+Less useful:
+https://javascript.plainenglish.io/what-is-web-scraping-and-how-to-scrap-a-website-using-node-6e82da37b3f5
+
+
+Retarded:
+https://www.section.io/engineering-education/build-a-web-scraper-using-cheerio/
